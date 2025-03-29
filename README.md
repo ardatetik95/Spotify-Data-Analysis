@@ -57,6 +57,7 @@ places in the top.
 
 -To find Date and Time trends in my listening habits
 
+
 Yearly Trends:
 
 ![year](https://github.com/user-attachments/assets/4cf1e640-2b23-4a14-9340-57a7e00cf1e1)
@@ -73,6 +74,7 @@ Yearly Trends:
 
 *Even though I have some all time favorites in many years like All Them Witches and Opeth, I tend to add new names to top 10 artists every year.
 
+
 Monthly Trends:
 
 ![months](https://github.com/user-attachments/assets/74cc6e5d-21b2-4e87-8f24-bc01c4faf64d)
@@ -83,6 +85,7 @@ Monthly Trends:
 
 *We can roughly say that I listen less in Autumn and Spring
 
+
 Weekly Trends
 
 ![weekdays](https://github.com/user-attachments/assets/cd3552b6-1ae3-454e-b6ad-55cb1796f78f)
@@ -90,6 +93,7 @@ Weekly Trends
 *The days that I listen the most is Monday, Wednesday and Sunday. Tuesday and Thursday are very close to each other and to Sunday.
 
 *I tend to listen less in Friday and Saturday.
+
 
 Daily Trends
 
