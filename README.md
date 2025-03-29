@@ -63,7 +63,7 @@ My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blas
 Most of the bands in top 10 are the ones I have been listening since 2022 except Molchat Doma and Russian Circles. I met those bands in 2024 and they took their
 places in the top.
 
--T4: To find Date and Time trends in my listening habits 
+- T4: To find Date and Time trends in my listening habits 
 
 
 T4.1: Yearly Trends:
@@ -122,11 +122,11 @@ Starting with 20:00, it starts to rise again, it peaks around 21:00 and 22:00, d
 We can say that my top listening times are in the late afternoon mid to late evening. You can find me with headsets around 14:00-17:00 and 20:00-23:00.
 
 
--To find the most skipped, picked and finished tracks
+- T5: To find the most skipped, picked and finished tracks
 
 
--To find correlations about why I skip a song
+- T6: To find correlations about why I skip a song
 
 
--To find if I am prone to listen some band repeatedly or do I explore new bands regularly
+- T7: To find if I am prone to listen some band repeatedly or do I explore new bands regularly
 
