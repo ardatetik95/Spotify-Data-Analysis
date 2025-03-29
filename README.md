@@ -2,12 +2,19 @@
 In this project, I took my Spotify Streaming History data. I used certain methods and programs to compile, clean and analyze this data to find out about my listening habits.
 
 My main purposes in this project are:
+
 -To practice ms SSIS and Python Pandas Data Analysis skills
+
 -To work with a raw data and cleaning it myself
+
 -To find my top artists and tracks
+
 -To find Date and Time trends in my listening habits
+
 -To find the most skipped, picked and finished tracks
+
 -To find correlations about why I skip a song
+
 -To find if I am prone to listen some band repeatedly or do I explore new bands regularly
 
 This project is seperated into four parts. Each and every part has a different program in use to practice certain skills and to do certain jobs.
