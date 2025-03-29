@@ -1,7 +1,9 @@
 Our data has 22 columns, holding 65,373 rows of data. This data is raw, so we have to reorganize and customize it for our need.
 
 3.1) Unnecessary Columns
+
 Some of these columns are not necessary for our analysis. Let’s talk about them
+
 1) conn_country: This column holds country location data with two to three characters of abbreviation like “TR” and “USA”. Our analysis doesn’t need location data, so we will not use this column
 2) ip_addr: This column holds the ip address of my devices. This information is irrelevant to our analysis and would not be safe to share, so will not use this column.
 3) Offline: This column holds Boolean data to see if I’m listening music in offline mode. I don’t use the app in offline form much and this information is irrelevant to our analysis, so will not use this column.
@@ -24,6 +26,7 @@ Platform Column holds the data about in which platform I used the app. I use the
 While I was expecting to see 3 types of distinct data, I ran ınto some inconsistent data anomalies.
 
 Web Player Distinct Platform Data:
+
 ![andr](https://github.com/user-attachments/assets/6c020eda-3ccc-4ccb-a1e2-dcf22dfbcc02)
 
 ![wind](https://github.com/user-attachments/assets/d82d92fc-25fa-4a93-8c4d-a624d4c196aa)
@@ -33,7 +36,9 @@ Web Player Distinct Platform Data:
 WARNING!: The black parts hold personal and confidential information. If you plan to do this project and publish it, make sure to conceal them
 
 Solution:
+
 I decided to convert rows holding unorganized strings and organized them under their respective platform. Firstly, I copied my file under another view called “PLATFORMTEST” to be able to fix my mistakes and not to corrupt or disrupt our original data.
+
 ![plarc](https://github.com/user-attachments/assets/8b0a4f8d-c9f1-449f-82ff-1174e5f1977d)
 ![updt](https://github.com/user-attachments/assets/a660bfec-b2b2-4749-a47e-ae7b1a4609f5)
 
@@ -48,7 +53,9 @@ These column names are too long and hold unnecessary data for our analysis. So o
 ![rename](https://github.com/user-attachments/assets/98e64a7a-df00-4eda-8e12-e7062bf676cf)
 
 3.4) Cleaning Spotify_track_uri Data
+
 This column holds a string part like “spotify:track:” before the track uri. We don’t need this part of the data.
+
 ![tr1](https://github.com/user-attachments/assets/64b58637-42d8-40e0-919f-6fa27427705d)
 
 After Cleaning
