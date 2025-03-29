@@ -43,10 +43,10 @@ Final Analysis:
 
 -To find my top artists and tracks
 
-My top listened track in milliseconds is Sky Lab by Electronic Systems. This was unexpected. This song is 14:16 minutes long and I listened it a lot, so it came
+*My top listened track in milliseconds is Sky Lab by Electronic Systems. This was unexpected. This song is 14:16 minutes long and I listened it a lot, so it came
 out on top. Interestingly, some of my top 10 songs are not from my top 10 artists.
 
-My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blasted Radiohead too much (I'm glad im beyond that era, but i still love Radiohead).
+*My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blasted Radiohead too much (I'm glad im beyond that era, but i still love Radiohead).
 Most of the bands in top 10 are the ones I have been listening since 2022 except Molchat Doma and Russian Circles. I met those bands in 2024 and they took their
 places in the top.
 
@@ -54,30 +54,42 @@ places in the top.
 
 Yearly Trends:
 
-I started using Spotify regularly in 2021. Before that, I tried the platform several times between 2017-2020.
-My listening time increased in 2022 and peaked in 2023. It decreased a bit in 2024.
-This project is being done in February-March of 2025, so I only have data until the 18th of February. That's why the data is showing the 2025's listening time low.
-I discovered that every year, my top artist changes. Some of the previous years'top artists stay in the top 10 next year.
-Even though I have some all time favorites in many years like All Them Witches and Opeth, I tend to add new names to top 10 artists every year.
+*I started using Spotify regularly in 2021. Before that, I tried the platform several times between 2017-2020.
+
+*My listening time increased in 2022 and peaked in 2023. It decreased a bit in 2024.
+
+*This project is being done in February-March of 2025, so I only have data until the 18th of February. That's why the data is showing the 2025's listening time low.
+
+*I discovered that every year, my top artist changes. Some of the previous years'top artists stay in the top 10 next year.
+
+*Even though I have some all time favorites in many years like All Them Witches and Opeth, I tend to add new names to top 10 artists every year.
 
 Monthly Trends:
 
-When we check the monthly listening time data, we can see that my listening time peaks in Summer and Winter.
-Especially the period between June-July and December-January I listen the most.
-We can roughly say that I listen less in Autumn and Spring
+*When we check the monthly listening time data, we can see that my listening time peaks in Summer and Winter.
+
+*Especially the period between June-July and December-January I listen the most.
+
+*We can roughly say that I listen less in Autumn and Spring
 
 Weekly Trends
 
-The days that I listen the most is Monday, Wednesday and Sunday. Tuesday and Thursday are very close to each other and to Sunday.
-I tend to listen less in Friday and Saturday.
+*The days that I listen the most is Monday, Wednesday and Sunday. Tuesday and Thursday are very close to each other and to Sunday.
+
+*I tend to listen less in Friday and Saturday.
 
 Daily Trends
 
-My listening time peaked in the 11th of June 2022, the peak listening dates are mostly from the summer of 2022(focusing mostly on June with few exceptions).
-My favorite listening hours are around 14:00-17:00 and 21:00-00:00
-I start to listen around 14:00 and tend to keep up until 18:00 - 20:00, where it plummets down
-Starting with 20:00, it starts to rise again, it peaks around 21:00 and 22:00, decreasing down by 01:00
-We can say that my top listening times are in the late afternoon mid to late evening. You can find me with headsets around 14:00-17:00 and 20:00-23:00.
+*My listening time peaked in the 11th of June 2022, the peak listening dates are mostly from the summer of 2022(focusing mostly on June with few exceptions).
+
+*My favorite listening hours are around 14:00-17:00 and 21:00-00:00
+
+*I start to listen around 14:00 and tend to keep up until 18:00 - 20:00, where it plummets down
+
+*Starting with 20:00, it starts to rise again, it peaks around 21:00 and 22:00, decreasing down by 01:00
+
+*We can say that my top listening times are in the late afternoon mid to late evening. You can find me with headsets around 14:00-17:00 and 20:00-23:00.
+
 
 -To find the most skipped, picked and finished tracks
 
