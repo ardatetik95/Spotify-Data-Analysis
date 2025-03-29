@@ -124,6 +124,21 @@ We can say that my top listening times are in the late afternoon mid to late eve
 
 - T5: To find the most skipped, picked and finished tracks
 
+We can start by the finished tracks. I used reason_end column's "trackdone" value to filter the finished tracks.
+
+![finish](https://github.com/user-attachments/assets/4bb96fad-ba91-471a-958e-73759a0502e1)
+
+9 of the top 15 most finished songs belong to the artists who are not in my Top 15 List
+
+We can continue with the most picked tracks. I evaluated the values in reason_start column. I thought that "clickrow" and "backbtn" values can be filtered picked as a filter.
+
+To compare if there are any differences between the values when I take "backbtn" or leave it out, I compared the values.
+
+![backbtn](https://github.com/user-attachments/assets/86c073cd-d3bc-4593-acd6-6351ff1812d1)
+
+There are some small differences between two tables. For both of them we can say, I tend to pick tracks from Molchat Doma and Radiohead regularly.
+
+Lastly, we can check the most skipped tracks.
 
 - T6: To find correlations about why I skip a song
 
