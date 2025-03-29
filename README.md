@@ -124,11 +124,15 @@ We can say that my top listening times are in the late afternoon mid to late eve
 
 - T5: To find the most skipped, picked and finished tracks
 
+** Most Finished Tracks ** 
+
 We can start by the finished tracks. I used reason_end column's "trackdone" value to filter the finished tracks.
 
 ![finish](https://github.com/user-attachments/assets/4bb96fad-ba91-471a-958e-73759a0502e1)
 
 9 of the top 15 most finished songs belong to the artists who are not in my Top 15 List
+
+** Most Picked Tracks **
 
 We can continue with the most picked tracks. I evaluated the values in reason_start column. I thought that "clickrow" and "backbtn" values can be filtered picked as a filter.
 
@@ -138,10 +142,30 @@ To compare if there are any differences between the values when I take "backbtn"
 
 There are some small differences between two tables. For both of them we can say, I tend to pick tracks from Molchat Doma and Radiohead regularly.
 
-Lastly, we can check the most skipped tracks.
+** Most Skipped Tracks **
+
+Lastly, we can check the most skipped tracks. We used reason_end's (endplay, backbtn, fwdbtn, clickrow) values for filtering the skipped tracks.
+
+During this process, I checked the data and realized I tend to skip the song near the end and Spotify counts them as skipped tracks.
+
+To balance this out, I found the average ms_played in the overall playtime and added a second filter, counting the ms_played below average as skipped tracks.
+
+![skips](https://github.com/user-attachments/assets/9fc233dc-5a69-471c-adc8-bfd540e282ba)
+
+My average filtering can be debatable, but when we check the data, we can see that Boa by Duvet and Ingenue by Atoms for Peace are the most skipped tracks
 
 - T6: To find correlations about why I skip a song
 
+I wondered about why I skip the tracks. I thought there may be a connection between shuffle and skip reason. I compared most skipped(with avg filter) and most shuffled tracks.
+
+![shuffles](https://github.com/user-attachments/assets/59aea3dd-fc0d-492b-b72b-d96dd9943594)
+
+I found out that 6 of the top 15 skipped songs are in the most shuffled tracks list.
 
 - T7: To find if I am prone to listen some band repeatedly or do I explore new bands regularly
 
+I compared my top 15 artists and last played 15 artists to have a slight opinion about this question.
+
+![latest](https://github.com/user-attachments/assets/edfeaf37-e0b0-4bad-83b1-5ce528bb9cc9)
+
+My listening trends seem to be a bit more leaning to discovery. I try new artists regularly. If I like the song, I check the band. Some of these new band stick around for a while. New ones stay with me and become a new all-time favorite. I occasionally return back to some of my top artists like Molchat Doma and Radiohead.
