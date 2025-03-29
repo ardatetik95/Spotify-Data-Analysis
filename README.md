@@ -39,7 +39,8 @@ Part 4: Exploring and Analysing the Data
 In the fourth and the last part, I took my data into Python and started analysing it according to my main purposes. I used Pandas library for general analysis
 and Matplotlib library for simple visualization.
 
-Final Analysis:
+**Final Analysis:
+**
 
 - T3: TTo find my top artists and tracks
 
@@ -51,15 +52,15 @@ out on top. Interestingly, some of my top 10 songs are not from my top 10 artist
 
 ![topartist](https://github.com/user-attachments/assets/4e848403-5f9e-41f9-8676-ced4554e566a)
 
-*T3.2 My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blasted Radiohead too much (I'm glad im beyond that era, but i still love Radiohead).
+*T3.2: My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blasted Radiohead too much (I'm glad im beyond that era, but i still love Radiohead).
 Most of the bands in top 10 are the ones I have been listening since 2022 except Molchat Doma and Russian Circles. I met those bands in 2024 and they took their
 places in the top.
 
-- T4: To find Date and Time trends in my listening habits
+**-T4: To find Date and Time trends in my listening habits**
 
 
-T4.1: Yearly Trends:
-
+**T4.1: Yearly Trends:
+**
 ![year](https://github.com/user-attachments/assets/4cf1e640-2b23-4a14-9340-57a7e00cf1e1)
 
 *T4.1.1: I started using Spotify regularly in 2021. Before that, I tried the platform several times between 2017-2020.
