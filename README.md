@@ -20,6 +20,7 @@ My main purposes in this project are:
 This project is seperated into four parts. Each and every part has a different program in use to practice certain skills and to do certain jobs.
 
 Parts:
+
 Part 1: Getting the Data
 
 In this part, I talk about how you can get your own Extended Streaming History data. This part has no coding or analysis in it. You can skip it if you already know how to get
