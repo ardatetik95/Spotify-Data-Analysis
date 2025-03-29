@@ -48,7 +48,7 @@ and Matplotlib library for simple visualization.
 Final Analysis:
  
 
-- T3: TTo find my top artists and tracks
+- T3: To find my top artists and tracks
  
 
 ![topsongs](https://github.com/user-attachments/assets/0fc3d7cc-519b-4034-b24a-761493e2adf8)
