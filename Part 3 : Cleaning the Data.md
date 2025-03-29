@@ -22,6 +22,7 @@ The structure of our view:
 ![view1out](https://github.com/user-attachments/assets/9bea7ea5-4f30-44e4-81ed-e6e7c4e4319d)
 
 3.2) Updating the Platform Column
+
 Platform Column holds the data about in which platform I used the app. I use the app on web player, android and windows. 
 While I was expecting to see 3 types of distinct data, I ran ınto some inconsistent data anomalies.
 
