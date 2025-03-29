@@ -43,8 +43,13 @@ Final Analysis:
 
 -To find my top artists and tracks
 
+![topsongs](https://github.com/user-attachments/assets/0fc3d7cc-519b-4034-b24a-761493e2adf8)
+
+
 *My top listened track in milliseconds is Sky Lab by Electronic Systems. This was unexpected. This song is 14:16 minutes long and I listened it a lot, so it came
 out on top. Interestingly, some of my top 10 songs are not from my top 10 artists.
+
+![topartist](https://github.com/user-attachments/assets/4e848403-5f9e-41f9-8676-ced4554e566a)
 
 *My top artist by playtime is Radiohead. I had a depressed era in 2023 and I blasted Radiohead too much (I'm glad im beyond that era, but i still love Radiohead).
 Most of the bands in top 10 are the ones I have been listening since 2022 except Molchat Doma and Russian Circles. I met those bands in 2024 and they took their
@@ -54,17 +59,23 @@ places in the top.
 
 Yearly Trends:
 
+![year](https://github.com/user-attachments/assets/4cf1e640-2b23-4a14-9340-57a7e00cf1e1)
+
 *I started using Spotify regularly in 2021. Before that, I tried the platform several times between 2017-2020.
 
 *My listening time increased in 2022 and peaked in 2023. It decreased a bit in 2024.
 
 *This project is being done in February-March of 2025, so I only have data until the 18th of February. That's why the data is showing the 2025's listening time low.
 
+![topinyears](https://github.com/user-attachments/assets/59c30fba-9ed2-4880-81eb-6c5c7bb96b84)
+
 *I discovered that every year, my top artist changes. Some of the previous years'top artists stay in the top 10 next year.
 
 *Even though I have some all time favorites in many years like All Them Witches and Opeth, I tend to add new names to top 10 artists every year.
 
 Monthly Trends:
+
+![months](https://github.com/user-attachments/assets/74cc6e5d-21b2-4e87-8f24-bc01c4faf64d)
 
 *When we check the monthly listening time data, we can see that my listening time peaks in Summer and Winter.
 
@@ -74,6 +85,8 @@ Monthly Trends:
 
 Weekly Trends
 
+![weekdays](https://github.com/user-attachments/assets/cd3552b6-1ae3-454e-b6ad-55cb1796f78f)
+
 *The days that I listen the most is Monday, Wednesday and Sunday. Tuesday and Thursday are very close to each other and to Sunday.
 
 *I tend to listen less in Friday and Saturday.
@@ -81,6 +94,8 @@ Weekly Trends
 Daily Trends
 
 *My listening time peaked in the 11th of June 2022, the peak listening dates are mostly from the summer of 2022(focusing mostly on June with few exceptions).
+
+![hours](https://github.com/user-attachments/assets/a3c79888-25c9-4087-9c7d-dd224f837f38)
 
 *My favorite listening hours are around 14:00-17:00 and 21:00-00:00
 
