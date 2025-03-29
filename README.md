@@ -160,7 +160,7 @@ I wondered about why I skip the tracks. I thought there may be a connection betw
 
 ![shuffles](https://github.com/user-attachments/assets/59aea3dd-fc0d-492b-b72b-d96dd9943594)
 
-I found out that 6 of the top 15 skipped songs are in the most shuffled tracks list.
+I found out that 6 of the top 15 skipped songs are in the most shuffled tracks list. I also found out I like to listen in shuffle mostly. There is a %40 chance of me skipping a song in shuffle.
 
 - T7: To find if I am prone to listen some band repeatedly or do I explore new bands regularly
 
