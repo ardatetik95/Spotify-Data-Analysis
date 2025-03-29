@@ -1,5 +1,6 @@
 2.1 Transforming the Data
-	I took the streaming_history_audio files into a separate folder. The json type of data is tricky to work around so I had to transform it into a more workable and editable file format.
+
+I took the streaming_history_audio files into a separate folder. The json type of data is tricky to work around so I had to transform it into a more workable and editable file format.
 For this step, I used Python Pandas to transform them into excel files.
 
 ![converting files from json to excel file](https://github.com/user-attachments/assets/5793680f-dcb7-4c89-a1e3-269558d6c9c6)
@@ -29,7 +30,8 @@ Step 2 : Figuring out what to do with offline_timestamp column
 During my tests in SSIS, I ran into error after error because of this column. Errors occurred because of conversion problems. This column held data like NULLs, bigint numbers and mixed varchar data like 1.66266E+12. I evaluated if this column was needed for my analysis and decided to delete it.
 
 2.2.2. Process in SSIS after Configuration
-	To collect all the data in one place, firstly I created a database called “Spotify” in Microsoft SQL and added a table called SPOTIFY_DW_UNI
+
+To collect all the data in one place, firstly I created a database called “Spotify” in Microsoft SQL and added a table called SPOTIFY_DW_UNI
 
 SPOTIFY_DW_UNI TABLE
 
